@@ -34,6 +34,5 @@ defmodule PentoWeb.WrongLive do
         score: score
       )
     }
-
   end
 end
